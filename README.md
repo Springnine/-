@@ -18,7 +18,7 @@ Bootstrap 3.3.7와 Tomcat 8.5를 사용했습니다.
 <img src="https://user-images.githubusercontent.com/82144761/144738179-ca21a7d6-3089-4a5b-9882-370f59b76e87.png" width="900" height="600"/>
 
 -로그인 후 게시판
-<img src="https://user-images.githubusercontent.com/82144761/144747536-5f0f154c-4403-4b6d-864e-4602294dbee7.png" width="900" height="600"/>
+<img src="https://user-images.githubusercontent.com/82144761/144747550-3ae205c7-33ad-4997-a98c-cf1d48578398.png"/>
 
 
 
