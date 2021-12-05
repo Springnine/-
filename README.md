@@ -26,6 +26,9 @@ Bootstrap 3.3.7와 Tomcat 8.5를 사용했습니다.
 - 글 목록
 <img src="https://user-images.githubusercontent.com/82144761/144751035-2acee926-47f2-4c4e-9aec-0a992bb02aec.png"/>
 
+- 게시글 보기
+<img src="https://user-images.githubusercontent.com/82144761/144752729-ca9f3014-bd58-4940-84fc-b181efbabd75.png"/>
+
 
 
 
