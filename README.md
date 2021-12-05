@@ -20,6 +20,9 @@ Bootstrap 3.3.7와 Tomcat 8.5를 사용했습니다.
 - 로그인 후 게시판
 <img src="https://user-images.githubusercontent.com/82144761/144747550-3ae205c7-33ad-4997-a98c-cf1d48578398.png"/>
 
+- 글쓰기 화면
+<img src="https://user-images.githubusercontent.com/82144761/144749469-606b14f1-170d-43ec-b2af-d426ee1b98cf.png"/>
+
 
 
 
