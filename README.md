@@ -7,6 +7,9 @@ Bootstrap 3.3.7와 Tomcat 8.5를 사용했습니다.
 동빈나님의 JSP 게시판 만들기 영상을 참고했습니다.
 
 
+- 메인 화면
+<img src="https://user-images.githubusercontent.com/82144761/144809539-ef8a9bf6-1e8a-4cc4-855c-f6048dab6c67.png"/>
+
 - 넓은 화면에서의 Navbar
 <img src="https://user-images.githubusercontent.com/82144761/144203276-2a89d924-9688-4bbc-b691-9baa129e4d48.png"/>
 
